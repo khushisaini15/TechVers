@@ -1,1 +1,1 @@
-# TechVerse
+# TechVers
